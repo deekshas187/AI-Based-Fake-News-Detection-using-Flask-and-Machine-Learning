@@ -89,7 +89,7 @@ fake-news-detector/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/fake-news-detector.git
+git clone https://github.com/deekshas187/fake-news-detector.git
 ```
 
 ## Move into Project Folder
