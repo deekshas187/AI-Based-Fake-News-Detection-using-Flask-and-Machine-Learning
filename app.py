@@ -36,7 +36,7 @@ def home():
 
         news = request.form["news"]
 
-        # ✅ CHECK INPUT FIRST
+        # CHECK INPUT FIRST
         error = is_valid_news(news)
 
         if error:
